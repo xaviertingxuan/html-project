@@ -1,2 +1,6 @@
 .navbar-brand {color: beige;}
 .nav-item {color: beige;}
+.black {color: #000;}
+.grey {color: rgb(150, 144, 144);}
+.bold {font-size: 70px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.background-green {background-color: teal;}
